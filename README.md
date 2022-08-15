@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://giphy.com/gifs/thecodingspacerd-code-coding-codecodecode-KEYMsj2LcXzfcTP5ii](https://photos.google.com/u/1/photo/AF1QipNvV2CSHwUeJfxzoFBlvWUqQQedhIjTwAF4guQH)">
+
 </div>
   
   ##
@@ -28,6 +28,5 @@
   <a href = "mailto:marcel.vanguarda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcel-costa-0a647053/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/marcelcostabruno/marcelcostabruno/blob/output/github-contribution-grid-snake.svg)
  
 </div>
